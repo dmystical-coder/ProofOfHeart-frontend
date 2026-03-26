@@ -32,7 +32,7 @@ ProofOfHeart empowers everyday people to rally behind the causes they believe in
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-org>/ProofOfHeart-frontend.git
+git clone https://github.com/Iris-IV/ProofOfHeart-frontend.git
 cd ProofOfHeart-frontend
 
 # Install dependencies
